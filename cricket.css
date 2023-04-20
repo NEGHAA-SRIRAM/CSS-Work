@@ -1,0 +1,66 @@
+/*THIS IS THE NORMAL BOX WHICH WE USE FOR NORAML TEXT*/
+.heading{
+    background-color: rgba(231, 69, 69, 0.945);
+    border: 5px solid black;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.head{
+    margin-left: 50px;
+}
+.para{
+    margin: 60px;
+    text-align: justify;
+    max-width: 200px;
+}
+.img{
+    float: right;
+    margin-top: -230px;
+}
+/*HERE WE HAVE USED BORDER RADIUS FOR SHOWING THE DIFFERENCE*/
+.ipL{
+    background-color: rgb(76, 113, 214);
+    border:5px solid black;
+    margin-left: 300px;
+    margin-right: 300px;
+    min-height: 200px;
+    margin-top: 5px;
+    border-radius: 25px;
+}
+.parA{
+    border-radius: 50px;
+    }
+.Para{
+    margin-top:-120px;
+    margin-left: 200px;
+}
+/*HERE WE HAVE USED THE NORMAL TEXT BOX FOR INSERT THE IMAGES*/
+.imageS{
+    background-color: rgb(116, 225, 225);
+    border:5px solid black;
+    color:blue;
+    margin-top: 5px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+.Image{
+    margin-left:30px;
+    margin-top: -5px;
+}
+.pAra{
+    max-width: 250px;
+}
+.iMage{
+    margin-left: 200px;
+    margin-top: -275px;
+}
+.paRa{
+     max-width: 250px;
+}
+.imAge{
+    margin-left: 370px;
+    margin-top: -285px;
+}
+.parA{
+    max-width: 350px;
+}

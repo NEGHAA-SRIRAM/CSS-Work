@@ -1,0 +1,25 @@
+body{
+    background-image:linear-gradient(to right,violet,indigo,blue,green,yellow,red);
+}
+.min{
+    background-color: aliceblue;
+    border-radius: 25px;
+    border-spacing: 150px;
+}
+table{
+    padding:5px;
+    border-spacing: 5px;
+}
+input{
+    margin-top: 10px;
+    border-radius: 10px;
+}
+#nim{
+    height: 30px;
+    width: 150px;
+    background-color: green;
+}
+#mo{
+    height: 100px;
+    width: 40%;
+}
